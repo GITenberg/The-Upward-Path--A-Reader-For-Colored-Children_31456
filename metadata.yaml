@@ -1,0 +1,74 @@
+_repo: The-Upward-Path--A-Reader-For-Colored-Children_31456
+_version: 0.1.0
+contributor:
+  author_of_introduction:
+    agent_name: Moton, Robert Russa
+    alias: Moton, R. R. (Robert Russa)
+    birthdate: 1867
+    deathdate: 1940
+    gutenberg_agent_id: '38111'
+    url: http://www.gutenberg.org/2009/agents/38111
+    wikipedia: http://en.wikipedia.org/wiki/Robert_Russa_Moton
+  compilers:
+  - agent_name: Pritchard, Myron T. (Myron Thomas)
+    birthdate: 1853
+    deathdate: 1935
+    gutenberg_agent_id: '39929'
+    url: http://www.gutenberg.org/2009/agents/39929
+  - agent_name: Ovington, Mary White
+    birthdate: 1865
+    deathdate: 1951
+    gutenberg_agent_id: '36204'
+    url: http://www.gutenberg.org/2009/agents/36204
+    wikipedia: http://en.wikipedia.org/wiki/Mary_White_Ovington
+covers:
+- cover_type: generated
+  image_path: cover.png
+description: ''
+gutenberg_issued: '2010-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31456'
+  lccn: '20016516'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Readers'
+- !lcc 'PE'
+tableOfContents: The boy and the bayonet / P.L. Dunbar -- Beginnings of a Mississippi
+  school / W.H. Holtzclaw -- Up from slavery / B.T. Washington -- Booker T. Washington
+  / W.H. Holtzclaw -- Anna-Margaret / A. Bird -- Charity / H.C. Ray -- My first school
+  / W.E.B. DuBois -- Ere sleep comes down / P.L. Dunbar -- The land of laughter /
+  A.W. Grimke -- The web of circumstance / C.W. Chesnutt -- Is the game worth the
+  candle? / J.E. Shepard -- O black and unknown bards / J.W. Johnson -- The greatest
+  menace of the south / W.J. Edwards -- The enchanted shell / H.C. Ray -- Behind a
+  Georgia mule / J.W. Johnson -- Hayti and Toussaint L'ouverture / W.E.B. DuBois --
+  His motto / L.B. Dixon -- The months / H.C. Ray -- The colored cadet at West Point
+  / H.O. Flipper -- An hymn to the evening / P. Wheatley -- Going to school under
+  difficulties / W.H. Holtzclaw -- The brave son / A.W. Burleigh -- Victory / W.F.
+  White -- The dog and the clever rabbit / A.O. Stafford -- The boy and the ideal
+  / J.S. Cotter -- Children at Easter / C.E. Frazier -- Abraham Lincoln / W. Pickens
+  -- Rondeau / J. Fauset -- How I escaped / F. Douglass -- Frederick Douglass / W.H.
+  Crogman -- Incident in the life of Frederick Douglass -- Animal life in the Congo
+  / W.H. Sheppard -- Cooperation and the Latin class / L.B. Witten -- The band of
+  Gideon / J.S. Cotter, Jr. -- The home of the colored girl beautiful / A. Hackley
+  -- The knighting of Donald / L.B. Witten -- A Negro explorer at the North Pole /
+  M.A. Henson -- Benjamin Banneker / W.W. Brown -- The Negro race / C.W. Anderson
+  -- Paul Cuffe / J.W. Cromwell -- The black fairy / F. Johnson -- It's a long way
+  / W.S. Braithwaite -- Negro music that stirred France / E.J. Scott -- November 11,
+  1918 -- Sea lyric / W.S. Braithwaite -- A Negro woman's hospitality / L.A. Pendleton
+  -- Record of "The old Fifteenth" in France / E.J. Scott -- Negro soldirs / R.C.
+  Jamison -- The "Devil Bush" and the "Greegree Bush" / G.W. Ellis -- Evening prayer
+  / H.C. Ray -- The strenuous life / S.X. Floyd -- O little David, play on your harp
+  / J.S. Cotter, Jr. -- Day at Kalk Bay, South Africa / L.J. Coppin -- Bishop Atticus
+  G. Haygood / W.H. Crogman -- How two colored captains fell / R.W. Tyler -- The young
+  warrior / J.W. Johnson -- Whole regiments decorated / E.J. Scott -- On planting
+  artichokes / D.A. Rudd and T. Bond -- A song of thanks / E.S. Jones -- Our dumb
+  animals / S.X. Floyd -- A legend of the blue jay / R.A. Fisher -- David Livingstone
+  / B. Brawley -- Ira Aldridge / W.J. Simmons -- Fifty years / J.W. Johnson -- A great
+  kingdom in the Congo / W.H. Sheppard -- Pillars of the state / W.C. Jason -- Oath
+  of Afro-American youth / K. Miller -- Notes.
+title: 'The Upward Path: A Reader For Colored Children'
+url: http://www.gutenberg.org/ebooks/31456
